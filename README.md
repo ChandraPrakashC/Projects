@@ -1,6 +1,3 @@
-Create a README.md file: Open a text editor or code editor of your choice and create a new file called "README.md." This file will contain the documentation for your code.
-
-Write the README content: Copy and paste the following content into your README.md file. This content includes a brief description of your code, usage instructions, and more. You can modify it as needed.
 
 # Concrete Crack Detection using Image Processing and Deep Learning
 
